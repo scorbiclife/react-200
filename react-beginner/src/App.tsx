@@ -1,12 +1,12 @@
 import "./App.css"
-import R030_FunctionComponent from "./R030_FunctionComponent";
+import R031_ReactHook from "./R031_ReactHook";
 
 function App() {
   return (
     <div>
       <h1>Start React 200!</h1>
       <p>Apply HTML</p>
-      <R030_FunctionComponent content="[This is a function component]"></R030_FunctionComponent>
+      <R031_ReactHook></R031_ReactHook>
     </div>
   )
 }
