@@ -7,4 +7,8 @@ function R033_ReturnMap() {
   )
 }
 
+export function R033_ReturnArray() {
+  return [<p>React</p>, <p>200</p>];
+}
+
 export default R033_ReturnMap;
