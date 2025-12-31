@@ -1,12 +1,11 @@
 import "./App.css"
-import R031_ReactHook from "./R031_ReactHook";
+import R032_Fragments from "./R032_Fragments";
 
 function App() {
   return (
     <div>
       <h1>Start React 200!</h1>
-      <p>Apply HTML</p>
-      <R031_ReactHook></R031_ReactHook>
+      <R032_Fragments></R032_Fragments>
     </div>
   )
 }
