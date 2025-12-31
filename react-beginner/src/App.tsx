@@ -1,11 +1,11 @@
 import "./App.css"
-import R032_Fragments from "./R032_Fragments";
+import R033_ReturnMap from "./R033_ReturnMap";
 
 function App() {
   return (
     <div>
       <h1>Start React 200!</h1>
-      <R032_Fragments></R032_Fragments>
+      <R033_ReturnMap></R033_ReturnMap>
     </div>
   )
 }
