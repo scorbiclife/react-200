@@ -1,12 +1,12 @@
 import "./App.css";
-import R034_ReactstrapAlerts from "./R034_ReactstrapAlerts";
 import "bootstrap/dist/css/bootstrap.css";
+import R035_ReactstrapBadges from "./R035_ReactstrapBadges";
 
 function App() {
   return (
     <div>
       <h1>Start React 200!</h1>
-      <R034_ReactstrapAlerts></R034_ReactstrapAlerts>
+      <R035_ReactstrapBadges></R035_ReactstrapBadges>
     </div>
   );
 }
