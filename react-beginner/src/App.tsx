@@ -1,12 +1,12 @@
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.css";
-import R037_ReactstrapDropdown from "./R037_ReactstrapDropdown";
+import R038_ReactstrapButtonGroup from "./R038_ReactstrapButtonGroup";
 
 function App() {
   return (
     <div>
       <h1>Start React 200!</h1>
-      <R037_ReactstrapDropdown></R037_ReactstrapDropdown>
+      <R038_ReactstrapButtonGroup></R038_ReactstrapButtonGroup>
     </div>
   );
 }
